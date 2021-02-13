@@ -1,0 +1,28 @@
+{
+  "name": "graphql-my-first-api",
+  "version": "1.0.0",
+  "description": "My First GraphQL API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRS0986/GraphQL-My-First-API.git"
+  },
+  "keywords": [
+    "graphql",
+    "api"
+  ],
+  "author": "Hirusha Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRS0986/GraphQL-My-First-API/issues"
+  },
+  "homepage": "https://github.com/HRS0986/GraphQL-My-First-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}
